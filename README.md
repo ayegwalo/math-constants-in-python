@@ -32,7 +32,7 @@ This script calculates:
 ## ▶️ How to Run
 
 1. Make sure you have Python 3 installed.
-2. Save the script as `constants.py`.
+2. Save the script as `maths_constants.py`.
 3. Run it from your terminal:
 
 ```bash
